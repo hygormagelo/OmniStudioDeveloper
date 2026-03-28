@@ -416,3 +416,24 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Salesforce DX
+.sfdx/
+.sf/
+.localdevserver/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs e Cache
+*.log
+.DS_Store
+Thumbs.db
+
+# Node (caso use LWC ou testes unitários)
+node_modules/
+bin/
+
+# Environment variables
+.env
