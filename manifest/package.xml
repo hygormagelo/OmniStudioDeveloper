@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AcccountDataQuery_1</members>
+		<members>GetContactsOpportunitiesByAccount_1</members>
+		<name>OmniDataTransform</name>
+	</types>
+	<types>
+		<members>Related_Account_English_1</members>
+		<members>SalesTeam_Account_English_1</members>
+		<name>OmniScript</name>
+	</types>
+	<version>66.0</version>
+</Package>
